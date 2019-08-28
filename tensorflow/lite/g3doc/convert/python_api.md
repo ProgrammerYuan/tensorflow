@@ -197,6 +197,7 @@ and before TensorFlow 1.12. Run `help()` to get details of each API.
 
 TensorFlow Version | Python API
 ------------------ | ---------------------------------
+1.14               | `tf.lite.TFLiteConverter`
 1.12               | `tf.contrib.lite.TFLiteConverter`
 1.9-1.11           | `tf.contrib.lite.TocoConverter`
 1.7-1.8            | `tf.contrib.lite.toco_convert`
